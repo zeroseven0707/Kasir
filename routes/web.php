@@ -19,3 +19,7 @@ Route::get('/', function () {
 route('/home', function() {
     return view('beranda');
 });
+route('/home', function() {
+    return view('beranda');
+});
+
